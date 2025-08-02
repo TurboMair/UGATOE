@@ -1,0 +1,1 @@
+[[Plan]] from your deck and gift one card to the active player. Negotiations for payment are player based! You do *not* have that card in your action deck on your next turn
