@@ -1,11 +1,7 @@
----
-
----
----
-title: Unnamed game bout the Theory of Everything
----
 Hello! This is the starting page for my game.
 
-[[Turn Structure]]
+Follow some of these links to learn about the game, or use the explorer on the side!
 [[Schools]]
+[[Game Setup]]
+[[Turn Structure]]
 [[Win Cons]]
