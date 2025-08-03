@@ -1,11 +1,11 @@
 1. **Plan & Ready**
-	- **Plan** - Pull 3 [[Action Cards]] (They dictate what options you have for this turn. Such as Shop, Speak, Rest)
-	- **Ready** - Roll [[Movement]]
+	- [[Plan]] - Pull 3 [[Action Cards]] (They dictate what options you have for this turn. Such as Shop, Speak, Rest)
+	- [[Ready]] - Roll [[Movement]]
 2. **Move & Act**
-	- **Move** - Use your entire movement and decide where to end your turn. (Empty space = field enemy).
+	- **Move** - Use your entire movement pool and decide where to end your turn. (Empty space = field enemy).
 	- **Act** - Chose your Action for the turn. (You may ask another player to [[Assist]] to provide an action card for you from their deck, but negotiations for payment are up to them!)
-3. **.** 
-	- Set any [[Boon & Bane]] effects
+3. **Set**
+	- Play any [[Boon & Bane]] effects
 4. **Resolve** 
 	- Pass the [[Turn Puck]] 
 	- Begin [[Combat]] or resolve your [[Action Cards]]. 

@@ -1,3 +1,4 @@
+#School 
 Acolyte Class 
 Insight, Filtering, Stacking bonus through research
 

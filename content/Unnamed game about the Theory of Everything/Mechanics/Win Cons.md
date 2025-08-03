@@ -1,3 +1,4 @@
+#Mechanic
 - Financial - Money
 - Conquest - Fighting monsters, dungeons, or taking towns
 - Science - Upgrading your cards and decks
