@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"19b2f1083b341b78","type":"text","text":"Pull [[Enemy Card]](s) from the corresponding deck to fight.","x":-340,"y":-460,"width":250,"height":100},
+		{"id":"a951f7ecd98346ad","type":"text","text":"If Player | Activate your [[Attack Deck]] and resolve [[Trigger]]s","x":-300,"y":-35,"width":249,"height":95},
+		{"id":"e5545b4f1d5e439b","type":"text","text":"Turn Order | Clash d10, Win is first. Turn order is clockwise.","x":-340,"y":-330,"width":250,"height":100},
+		{"id":"b101c081b6f1b17f","type":"text","text":"On 3rd Round | End turn, start next turn at Resolve Combat: Round Start","x":300,"y":300,"width":250,"height":86},
+		{"id":"55477992eba178bd","type":"text","text":"Resolve your Activated Attack Cards","x":-300,"y":80,"width":250,"height":60},
+		{"id":"3fc22f617a21b9d8","type":"text","text":"If Enemy | Roll for Enemy Attack Choice. If <=1, Fizzle","x":300,"y":-35,"width":249,"height":95},
+		{"id":"a141fbd693991288","type":"text","text":"Resolve Attack","x":300,"y":80,"width":249,"height":60},
+		{"id":"acffc57db1674261","type":"text","text":"Repeat in Turn Order\nIf Player, If Enemy","x":1,"y":-20,"width":249,"height":65},
+		{"id":"3b81540c28856fdf","type":"text","text":"No Enemies, No HP, No Turns","x":-14,"y":184,"width":279,"height":60},
+		{"id":"24408149f6c1a9f8","type":"text","text":"No HP | Roll [[Death]]","x":1,"y":300,"width":250,"height":60},
+		{"id":"1da1c8277ba7dbf5","type":"text","text":"No Enemies | Fight Win!\nCollect Rewards, End turn","x":-300,"y":243,"width":241,"height":87},
+		{"id":"1fb331583eefabf0","type":"text","text":"No Turns | Draw 1 Attack Card.","x":300,"y":188,"width":250,"height":56},
+		{"id":"9b86f2f87533f5de","type":"text","text":"\"Round Start\" Triggers","x":1,"y":-340,"width":249,"height":50},
+		{"id":"a65ce8cc81020aa4","type":"text","text":"Roll [[Pip]]\n(Minimum 1 Pip)","x":1,"y":-250,"width":249,"height":80},
+		{"id":"f7c5eb9bfae65946","type":"text","text":"[[Activate]] 1 [[Attack Card]] from your hand","x":1,"y":-140,"width":249,"height":58},
+		{"id":"7c3438c35da4b89d","type":"text","text":"\"Combat Start\" Triggers","x":-340,"y":-210,"width":250,"height":60},
+		{"id":"ff00097af7c45142","type":"text","text":"Draw 3 cards from the [[Attack Deck]]","x":-340,"y":-112,"width":250,"height":60},
+		{"id":"a444ad9d7d37d759","type":"text","text":"# Enemy Combat Flow Chart","x":-86,"y":-540,"width":424,"height":50}
+	],
+	"edges":[
+		{"id":"b231beb6f0255fa8","fromNode":"7c3438c35da4b89d","fromSide":"bottom","toNode":"ff00097af7c45142","toSide":"top"},
+		{"id":"bd44bb772b1810ef","fromNode":"e5545b4f1d5e439b","fromSide":"bottom","toNode":"7c3438c35da4b89d","toSide":"top"},
+		{"id":"e02296ca6ba0e405","fromNode":"9b86f2f87533f5de","fromSide":"bottom","toNode":"a65ce8cc81020aa4","toSide":"top"},
+		{"id":"63b7b12bfd249a28","fromNode":"a65ce8cc81020aa4","fromSide":"bottom","toNode":"f7c5eb9bfae65946","toSide":"top"},
+		{"id":"0ed3a49ef18bd668","fromNode":"19b2f1083b341b78","fromSide":"bottom","toNode":"e5545b4f1d5e439b","toSide":"top"},
+		{"id":"fe43f22d2345df9e","fromNode":"ff00097af7c45142","fromSide":"right","toNode":"9b86f2f87533f5de","toSide":"left"},
+		{"id":"7eaec44fb61f48c4","fromNode":"f7c5eb9bfae65946","fromSide":"bottom","toNode":"acffc57db1674261","toSide":"top"},
+		{"id":"77bb1ca8be692c2b","fromNode":"acffc57db1674261","fromSide":"right","toNode":"3fc22f617a21b9d8","toSide":"left"},
+		{"id":"aaf632c986c71a80","fromNode":"acffc57db1674261","fromSide":"left","toNode":"a951f7ecd98346ad","toSide":"right"},
+		{"id":"cac01d8457af7588","fromNode":"acffc57db1674261","fromSide":"bottom","toNode":"3b81540c28856fdf","toSide":"top"},
+		{"id":"a9c5dfe9be82afe5","fromNode":"3fc22f617a21b9d8","fromSide":"bottom","toNode":"a141fbd693991288","toSide":"top"},
+		{"id":"6b04853a92dd72c0","fromNode":"a141fbd693991288","fromSide":"bottom","toNode":"acffc57db1674261","toSide":"top"},
+		{"id":"116e71f68cec9133","fromNode":"a951f7ecd98346ad","fromSide":"bottom","toNode":"55477992eba178bd","toSide":"top"},
+		{"id":"fc3a0c1ef53e92c9","fromNode":"55477992eba178bd","fromSide":"bottom","toNode":"acffc57db1674261","toSide":"top"},
+		{"id":"f7fb7d93ae770a76","fromNode":"3b81540c28856fdf","fromSide":"left","toNode":"1da1c8277ba7dbf5","toSide":"right"},
+		{"id":"7206f29a9f04316d","fromNode":"3b81540c28856fdf","fromSide":"right","toNode":"1fb331583eefabf0","toSide":"left"},
+		{"id":"e09d8f87775b4716","fromNode":"1fb331583eefabf0","fromSide":"bottom","toNode":"b101c081b6f1b17f","toSide":"top"},
+		{"id":"c6ef05182c065eb5","fromNode":"1fb331583eefabf0","fromSide":"right","toNode":"9b86f2f87533f5de","toSide":"right"},
+		{"id":"571fa008fb8e6443","fromNode":"3b81540c28856fdf","fromSide":"bottom","toNode":"24408149f6c1a9f8","toSide":"top"}
+	]
+}

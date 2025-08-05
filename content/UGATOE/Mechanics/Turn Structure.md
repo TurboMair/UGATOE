@@ -1,5 +1,5 @@
 1. **Plan & Ready**
-	- [[Plan]] - Pull 3 [[Action Cards]] (They dictate what options you have for this turn. Such as Shop, Speak, Rest)
+	- [[Plan]] - Pull 3 [[Action Card]] (They dictate what options you have for this turn. Such as Shop, Speak, Rest)
 	- [[Ready]] - Roll [[Movement]]
 2. **Move & Act**
 	- **Move** - Use your entire movement pool and decide where to end your turn. (Empty space = field enemy).
@@ -8,7 +8,7 @@
 	- Play any [[Boon & Bane]] effects
 4. **Resolve** 
 	- Pass the [[Turn Puck]] 
-	- Begin [[Combat]] or resolve your [[Action Cards]]. 
+	- Begin [[Combat]] or resolve your [[Action Card]]. 
 		- While the next person starts their turn, the previous player before you puppets your enemy/actions if necessary. 
 
 # Off Turn Structure
