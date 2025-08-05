@@ -12,3 +12,6 @@ Each round
 - Strength - Bonk
 - Magic - Pew
 - Charisma - Half Rewards
+
+# Combat Flow
+![[Combat Flow Chart.png]]
