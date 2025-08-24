@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"19b2f1083b341b78","type":"text","text":"Pull [[Enemy Card]](s) from the corresponding deck to fight.","x":-340,"y":-460,"width":250,"height":100},
 		{"id":"a951f7ecd98346ad","type":"text","text":"If Player | Activate your [[Attack Deck]] and resolve [[Trigger]]s","x":-300,"y":-35,"width":249,"height":95},
 		{"id":"e5545b4f1d5e439b","type":"text","text":"Turn Order | Clash d10, Win is first. Turn order is clockwise.","x":-340,"y":-330,"width":250,"height":100},
 		{"id":"b101c081b6f1b17f","type":"text","text":"On 3rd Round | End turn, start next turn at Resolve Combat: Round Start","x":300,"y":300,"width":250,"height":86},
@@ -17,7 +16,8 @@
 		{"id":"f7c5eb9bfae65946","type":"text","text":"[[Activate]] 1 [[Attack Card]] from your hand","x":1,"y":-140,"width":249,"height":58},
 		{"id":"7c3438c35da4b89d","type":"text","text":"\"Combat Start\" Triggers","x":-340,"y":-210,"width":250,"height":60},
 		{"id":"ff00097af7c45142","type":"text","text":"Draw 3 cards from the [[Attack Deck]]","x":-340,"y":-112,"width":250,"height":60},
-		{"id":"a444ad9d7d37d759","type":"text","text":"# Enemy Combat Flow Chart","x":-86,"y":-540,"width":424,"height":50}
+		{"id":"a444ad9d7d37d759","type":"text","text":"# Enemy Combat Flow Chart","x":-86,"y":-540,"width":424,"height":50},
+		{"id":"19b2f1083b341b78","type":"text","text":"Pull [[Enemy Card]](s) from the corresponding deck to fight.","x":-340,"y":-460,"width":250,"height":100}
 	],
 	"edges":[
 		{"id":"b231beb6f0255fa8","fromNode":"7c3438c35da4b89d","fromSide":"bottom","toNode":"ff00097af7c45142","toSide":"top"},
