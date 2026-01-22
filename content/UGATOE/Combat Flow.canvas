@@ -15,7 +15,7 @@
 		{"id":"a65ce8cc81020aa4","type":"text","text":"Roll [[Pip]]\n(Minimum 1 Pip)","x":1,"y":-250,"width":249,"height":80},
 		{"id":"f7c5eb9bfae65946","type":"text","text":"[[Activate]] 1 [[Attack Card]] from your hand","x":1,"y":-140,"width":249,"height":58},
 		{"id":"7c3438c35da4b89d","type":"text","text":"\"Combat Start\" Triggers","x":-340,"y":-210,"width":250,"height":60},
-		{"id":"ff00097af7c45142","type":"text","text":"Draw 3 cards from the [[Attack Deck]]","x":-340,"y":-112,"width":250,"height":60},
+		{"id":"ff00097af7c45142","type":"text","text":"Plan 3 [[Attack Deck]]","x":-340,"y":-112,"width":250,"height":60},
 		{"id":"a444ad9d7d37d759","type":"text","text":"# Enemy Combat Flow Chart","x":-86,"y":-540,"width":424,"height":50},
 		{"id":"19b2f1083b341b78","type":"text","text":"Pull [[Enemy Card]](s) from the corresponding deck to fight.","x":-340,"y":-460,"width":250,"height":100}
 	],
